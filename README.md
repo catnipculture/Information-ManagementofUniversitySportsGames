@@ -1,0 +1,2 @@
+# Information-ManagementofUniversitySportsGames
+SSM的高校运动会信息管理系统
